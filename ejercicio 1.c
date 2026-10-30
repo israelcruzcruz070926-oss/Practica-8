@@ -1,4 +1,6 @@
-//israel cruz cruz
+/*Israel Cruz Cruz
+Ejercicio 1 laboratorio
+Estructuras de repetición*/
 #include <stdio.h>
 int main()
 {
