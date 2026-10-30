@@ -1,3 +1,6 @@
+/*Israel Cruz Cruz
+Ejercicio 5 laboratorio
+Estructuras de repetición*/
 #include <stdio.h>
 int main ()
 {
