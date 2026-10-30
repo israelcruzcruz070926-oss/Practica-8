@@ -1,3 +1,6 @@
+/*Israel Cruz Cruz
+Ejercicio 6 laboratorio
+Estructuras de repetición*/
 #include <stdio.h>
 #define MAX 5    
 /*# define Pi 3.1416 esto sirve para que cualquier
